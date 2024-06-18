@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **innovate ideas.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/toranvathani/](https://www.linkedin.com/in/toranvathani/)
+- 👨‍💻 Connect me at [https://www.linkedin.com/in/toranvathani/](https://www.linkedin.com/in/toranvathani/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IHUyObH_r1ckbjDtEfahVlQrCPBJ5teE/view?usp=sharing](https://drive.google.com/file/d/1IHUyObH_r1ckbjDtEfahVlQrCPBJ5teE/view?usp=sharing)
 
