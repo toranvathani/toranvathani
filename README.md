@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Toran V Athani</h1>
 <h3 align="center">B.Tech CSE Undergrad at VIT Vellore. (Keen about FullStack and ML)</h3>
 
-- 👯 I’m looking to collaborate on **innovate ideas.**
+- 👯 I’m looking to collaborate on **innovative ideas.**
 
 - 👨‍💻 More about me at [https://www.linkedin.com/in/toranvathani/](https://www.linkedin.com/in/toranvathani/)
 
