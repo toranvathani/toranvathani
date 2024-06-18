@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toran V Athani</h1>
 <h3 align="center">A B.Tech CSE Ungergrad at VIT Vellore. (Passionate about FullStack and ML)</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16762086-Programmer-character-animation">
 
 - 👯 I’m looking to collaborate on **innovate ideas.**
 
