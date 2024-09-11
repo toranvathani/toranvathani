@@ -5,8 +5,8 @@
 
 - 👨‍💻 More about me at [https://www.linkedin.com/in/toranvathani/](https://www.linkedin.com/in/toranvathani/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SJKvWG0fcguX48gZHmdOm2xw0X1SazoR/view?usp=sharing](https://drive.google.com/file/d/1SJKvWG0fcguX48gZHmdOm2xw0X1SazoR/view?usp=sharing)
-
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1SJKvWG0fcguX48gZHmdOm2xw0X1SazoR/view?usp=sharing](https://drive.google.com/file/d/1SJKvWG0fcguX48gZHmdOm2xw0X1SazoR/view?usp=sharing)
+](https://drive.google.com/file/d/19T10znH1ivI0kFbD-jWf6fcHtClH68DN/view).
 - 📫 How to reach me **toranathani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
