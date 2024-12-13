@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toran V Athani</h1>
-<h3 align="center">B.Tech CSE Undergrad at VIT Vellore. (Keen about FullStack and ML)</h3>
+<h3 align="center">B.Tech CSE Undergrad at VIT Vellore. </h3>
 
 - 👯 I’m looking to collaborate on **InnoVentures.**
 
