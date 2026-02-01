@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Toran V Athani</h1>
-<h3 align="center">Software Engineer at Guardian Life. B.Tech CSE Grad at VIT Vellore. </h3>
 
 - 👯 I’m looking to collaborate on **InnoVentures.**
 
